@@ -6,7 +6,7 @@ body{
 }
 
 header{
-background-color: orangered;
+background-color: red;
 text-align: center;
 padding-top: 50px;
 padding-bottom: 50px;
@@ -19,6 +19,8 @@ header img{
     border-radius: 170px;
     width: 300px;
     border: 20px solid black;
+    padding: 0px;
+    margin: 0px;
 }
 
 main{
